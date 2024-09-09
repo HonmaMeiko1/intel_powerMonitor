@@ -5,5 +5,5 @@ Since therea are 5 physical work nodes, 2 cpus in each work node, and 24 cores o
 - interval period  
 
 reference：  
-https://github.com/lixiaobai09/intel_power_consumption_get.git
+https://github.com/lixiaobai09/intel_power_consumption_get.git  
 https://blog.csdn.net/Xiaobai__Lee/article/details/100729269 
